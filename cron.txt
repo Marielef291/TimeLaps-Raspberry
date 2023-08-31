@@ -1,0 +1,2 @@
+30 9-16 * * * /home/pi/time_lapse_garden.py ; /home/pi/transfere_fpt.sh TL1 ; /home/pi/transfere_fpt.sh TL2
+00 10-16 * * * /home/pi/time_lapse_garden.py ; /home/pi/transfere_fpt.sh TL1 ; /home/pi/transfere_fpt.sh TL2
